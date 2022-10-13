@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600;700&display=swap');
+
+
+body {
+    font-family: 'Asap', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 50px;
+    background: #4B79A1;
+    background: -webkit-linear-gradient(to right, #283E51, #4B79A1);
+    background: linear-gradient(to right, #283E51, #4B79A1);
+}
+
+h1 {
+    color: rgb(206, 240, 250);
+    text-shadow: 5px 5px 5px rgb(32, 31, 31);
+}
+
+h3 {
+    color: rgb(202, 200, 161);
+}
+
+ul {
+    color: aliceblue;
+    list-style-type: circle;
+    font-weight: 500;
+}
